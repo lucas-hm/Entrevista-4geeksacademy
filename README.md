@@ -1,6 +1,9 @@
 # Entrevista-4geeksacademy
 Este repo contiene mi charla para la entrevista del jueves
 
+¿Qué es un ataque cross site? 
+Es un ataque de inyección de código a través de un servidor externo
+
 ¿Qué es el phishing y cómo podrías prevenirlo?
 
 ¿Cuál es la diferencia entre un WAF y un firewall tradicional?
