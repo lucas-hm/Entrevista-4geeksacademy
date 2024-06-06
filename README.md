@@ -5,6 +5,7 @@ Este repo contiene mi charla para la entrevista del jueves
 Es un ataque de inyección de código a través de un servidor externo
 
 ¿Qué es el phishing y cómo podrías prevenirlo?
+Los ataques de tipo phishing son email pidiéndote qué cambies tu contraseña de mail porque ha sido descifrada, principalmente los envían noreply@google.com. Este tipo de ataques pueden ser prevenidos mediante capacitaciónes básicas de Ciberseguridad. 
 
 ¿Cuál es la diferencia entre un WAF y un firewall tradicional?
 
