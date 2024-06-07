@@ -8,11 +8,21 @@ Es un ataque de inyección de código a través de un servidor externo
 Los ataques de tipo phishing son email pidiéndote qué cambies tu contraseña de mail porque ha sido descifrada, principalmente los envían noreply@google.com. Este tipo de ataques pueden ser prevenidos mediante capacitaciónes básicas de Ciberseguridad. 
 
 ¿Cuál es la diferencia entre un WAF y un firewall tradicional?
+WAF (Web Application Firewall):
+Protección: Se enfoca en proteger aplicaciones web.
+Función: Filtra y monitorea el tráfico HTTP/HTTPS para prevenir ataques específicos a aplicaciones web, como inyecciones SQL, cross-site scripting (XSS) y otros exploits de la capa de aplicación.
+Nivel: Opera en la capa 7 (aplicación) del modelo OSI.
+
+Firewall tradicional:
+Protección: Protege redes internas contra accesos no autorizados y ataques externos.
+Función: Filtra el tráfico en función de reglas predefinidas basadas en direcciones IP, puertos y protocolos.
+Nivel: Opera en la capa 3 (red) y capa 4 (transporte) del modelo OSI.
 
 ¿Qué es la seguridad de capa de aplicación y por qué es importante?
 La seguridad de capa de aplicación se enfoca en proteger las aplicaciones de amenazas que intentan explotar vulnerabilidades en el código de la aplicación
 
 ¿Cómo funciona el cifrado y cuál es su importancia en la ciberseguridad?
+El cifrado funciona como una capa de seguridad para el envio y transformacion de datos, asegurando que las personas autorizadas puedan acceder, manipular y comprender los datos.
 
 Confidencialidad: Protege la información para que solo las partes autorizadas puedan acceder a ella.
 Integridad: Asegura que los datos no sean alterados sin autorización durante su almacenamiento o transmisión.
@@ -60,17 +70,13 @@ Evaluación y Gestión de Riesgos:
 Políticas y Cumplimiento:
 
 ¿Qué es la norma ISO/IEC 27001?
+Estándar internacional que establece los requisitos para la implementación, mantenimiento y mejora continua de un Sistema de Gestión de la Seguridad de la Información (SGSI).
+
 ¿Qué entiendes por GDPR y cómo afecta a la ciberseguridad?
-Herramientas y Tecnología:
+Este es el Reglamento General de Protección de datos, esto afecta mucho en cuanto a ciberseguridad porque hay datos de gente de muchos paises y se deben administrar de forma correcta esos datos para no infringir la ley de cada pais.
 
 ¿Qué herramientas de análisis de vulnerabilidades has utilizado?
+He utilizado nessus.
+
 ¿Tienes experiencia con SIEM (Security Information and Event Management)? ¿Cuál?
-Preguntas Conductuales y de Competencias
-Trabajo en Equipo y Comunicación:
-
-Describe una vez en la que tuviste que comunicar un problema técnico a una audiencia no técnica.
-¿Cómo manejas los desacuerdos en un equipo de trabajo?
-Resolución de Problemas:
-
-Cuéntame sobre un desafío técnico significativo que enfrentaste y cómo lo superaste.
-Describe un momento en que tuviste que aprender una nueva tecnología o herramienta rápidamente para resolver un problema.
+Si, he tenido experiencia con SIEM en mi reciente pasantia en Edemsa, donde monitoree logs de datos de compra de computadoras, notebooks y servidores.
