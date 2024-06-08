@@ -66,7 +66,19 @@ Un incidente que tuve que manejar fue cuando hice mi pasantia en Edemsa, donde t
 Evaluación y Gestión de Riesgos:
 
 ¿Cómo evaluarías el riesgo de una nueva vulnerabilidad en el sistema?
+-Identificación de la Vulnerabilidad:
+   Determina la naturaleza de la vulnerabilidad, cómo fue descubierta y cuál es su posible impacto en el sistema.
+-Evaluación de la Severidad:
+   Utiliza sistemas de puntuación como el Common Vulnerability Scoring System (CVSS) para cuantificar la gravedad de la vulnerabilidad en función de factores como la facilidad de explotación, el impacto     potencial y el nivel de acceso requerido.
+-Determinación de la Exposición:
+   Evalúa si la vulnerabilidad afecta componentes críticos del sistema y si es accesible desde fuera de la red o si requiere acceso interno.
+-Análisis del Impacto:
+   Considera las posibles consecuencias de la explotación de la vulnerabilidad, como la pérdida de datos, interrupción del servicio, daños a la reputación, y costos financieros.
+
 ¿Qué metodologías o frameworks de gestión de riesgos conoces y has utilizado?
+Cybersecurity Risk Management Framework (RMF)
+FAIR (Factor Analysis of Information Risk)
+
 Políticas y Cumplimiento:
 
 ¿Qué es la norma ISO/IEC 27001?
