@@ -78,6 +78,7 @@ Evaluación y Gestión de Riesgos:
 ¿Qué metodologías o frameworks de gestión de riesgos conoces y has utilizado?
 Cybersecurity Risk Management Framework (RMF)
 FAIR (Factor Analysis of Information Risk)
+OCTAVE (Operationally Critical Threat, Asset, and Vulnerability Evaluation)
 
 Políticas y Cumplimiento:
 
