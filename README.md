@@ -91,5 +91,11 @@ Este es el Reglamento General de Protección de datos, esto afecta mucho en cuan
 ¿Qué herramientas de análisis de vulnerabilidades has utilizado?
 He utilizado nessus.
 
+¿Qué herramientas de explotación de vulnerabilidades has utilizado?
+He utilizado Metasploit Framework. 
+
 ¿Tienes experiencia con SIEM (Security Information and Event Management)? ¿Cuál?
 Si, he tenido experiencia con SIEM en mi reciente pasantia en Edemsa, donde monitoree logs de datos de compra de computadoras, notebooks y servidores.
+
+¿Qué es la CIA triad?
+El santo grial de la Ciberseguridad, los tres pilares de la seguridad informática.Confidencialidad: Únicamente aquellos usuarios y procesos autorizados tendrán acceso o permisos para modificar datos.Integridad: Los datos no pueden ser modificados de manera incorrecta, de un modo accidental o intencionado y han de mantenerse en perfecto estado.Disponibilidad: Aquellos usuarios autorizados tendrán acceso a los datos siempre que sea necesario.
